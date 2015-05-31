@@ -1,5 +1,5 @@
 {
-  "name": "bugadani/oauth_server",
+  "name": "bugadani/oauth-server",
   "description": "A simple to use OAuthServer library",
   "minimum-stability": "dev",
   "license": "MIT",
