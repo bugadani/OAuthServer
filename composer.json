@@ -1,0 +1,12 @@
+{
+  "name": "bugadani/oauth_server",
+  "description": "A simple to use OAuthServer library",
+  "minimum-stability": "dev",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Dániel Buga",
+      "email": "bugadani@gmail.com"
+    }
+  ]
+}
